@@ -2,25 +2,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Setup the project
 
-Clone it.
-
-### `git clone https://github.com/talmachani/covid-map.git`
-
+Clone it
 
 ### `git clone https://github.com/talmachani/covid-map.git`
 
 In the project directory, you can run:
 
-
 Install project dependencies
 ### `npm install .`
 
-create .env file containing:
+Then create .env file containing:
 ```
 REACT_APP_GOOGLE_KEY=??? 
 ```
-Then run:
 
+Then run it:
 ### `npm run start`
 
 Runs the app in the development mode.<br />
